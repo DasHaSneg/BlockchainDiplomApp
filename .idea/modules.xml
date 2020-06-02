@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MyDiplomProject.iml" filepath="$PROJECT_DIR$/.idea/MyDiplomProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BlockchainDiplomProject/.idea/BlockchainDiplomProject.iml" filepath="$PROJECT_DIR$/../BlockchainDiplomProject/.idea/BlockchainDiplomProject.iml" />
     </modules>
   </component>
 </project>
